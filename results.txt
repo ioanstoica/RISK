@@ -1,0 +1,60 @@
+Fight 3 vs 2
+Attack win rate:   54%
+Defence win rate:  46%
+
+Fight 3 vs 1
+Attack win rate    66%
+Defend win rate    34%
+
+Fight 2 vs 2
+Attack win rate    39%
+Defend win rate    61%
+
+Fight 2 vs 1
+Attack win rate    58%
+Defend win rate    42%
+
+Fight 1 vs 1
+Attack win rate    42%
+Defend win rate    58%
+
+Fight 3 vs 2 (+1 attack bonus)
+Attack win rate    66%
+Defend win rate    34%
+
+Fight 3 vs 1 (+2 defence bonus)
+Attack win rate    33%
+Defend win rate    67%
+
+
+Attackers, Defenders, Attack bonus, Defence bonus, Win rate
+1, 1, 0, 0, 0.406
+1, 1, 0, 1, 0.27
+1, 1, 0, 2, 0.173
+1, 1, 1, 0, 0.605
+1, 1, 1, 1, 0.411
+1, 1, 1, 2, 0.287
+2, 1, 0, 0, 0.594
+2, 1, 0, 1, 0.423
+2, 1, 0, 2, 0.273
+2, 1, 1, 0, 0.764
+2, 1, 1, 1, 0.58
+2, 1, 1, 2, 0.41
+2, 2, 0, 0, 0.413
+2, 2, 0, 1, 0.3035
+2, 2, 0, 2, 0.2605
+2, 2, 1, 0, 0.4985
+2, 2, 1, 1, 0.3865
+2, 2, 1, 2, 0.311
+3, 1, 0, 0, 0.659
+3, 1, 0, 1, 0.46
+3, 1, 0, 2, 0.341
+3, 1, 1, 0, 0.829
+3, 1, 1, 1, 0.68
+3, 1, 1, 2, 0.498
+3, 2, 0, 0, 0.53
+3, 2, 0, 1, 0.4515
+3, 2, 0, 2, 0.3625
+3, 2, 1, 0, 0.666
+3, 2, 1, 1, 0.5545
+3, 2, 1, 2, 0.4395
