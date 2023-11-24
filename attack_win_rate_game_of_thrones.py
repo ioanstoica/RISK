@@ -107,7 +107,7 @@ def attack_win_rate_game_of_thrones(
     )
 
 
-nr_of_simulations = 1000
+nr_of_simulations = 100000
 
 # For all possible combinations of 1 to 3 attackers, 1 to 2 defenders, 0 to 2 knigts, 0 to (2-knights) siege engine and 0 to 1 fortifications, calculate the win rate, and crete a table with the results.
 with open("results_game_of_thrones.csv", "w") as out:
